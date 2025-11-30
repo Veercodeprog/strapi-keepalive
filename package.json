@@ -1,0 +1,14 @@
+{
+  "name": "strapi-keepalive",
+  "version": "1.0.0",
+  "description": "Keep Strapi API alive",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
